@@ -8,3 +8,4 @@
 - **Next update coming soon!** 👀
 
 **Thanks for using FragTrack!** 🎮
+
