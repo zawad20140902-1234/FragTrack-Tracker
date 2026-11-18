@@ -2,4 +2,5 @@
 
 ## Supported Versions
 
-Very Safe this is the creator Zawadul Amin and i can assure its safe.
+FragTrack is very safe; it was made for CS2 tracking, not malware.
+Do not share steam api, as that's the most important requirement
