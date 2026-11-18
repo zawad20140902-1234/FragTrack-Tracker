@@ -1,0 +1,7 @@
+Redesigned Overview with sharper rendering on high-resolution displays and shortcuts to Performance and Steam Players.
+Updated the front-page logo by removing the figure inside the red crosshair.
+Time in the Performance tab is still broken
+Removed the Assists card.
+Improved stat accuracy by checking that Steam’s stats belong to the selected player and showing missing values as unavailable.
+Fixed roster behavior. Fresh installs start empty, and deleting the last profile keeps the roster empty after restart.
+Fixed Steam API key import so it preserves other settings in the same .env file.
